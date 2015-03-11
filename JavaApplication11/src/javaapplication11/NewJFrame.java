@@ -9,6 +9,7 @@ import java.awt.Toolkit;
 /**
  *
  * @author Jose
+ *
  */
 public class NewJFrame extends javax.swing.JFrame {
 
